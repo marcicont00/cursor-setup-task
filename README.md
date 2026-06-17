@@ -29,7 +29,7 @@ I looked for people who actively practice what they teach: founders who built au
 | 7 | Katelyn Bourgoin | Customer research expert | Psychology-driven content, buyer behavior specialist |
 | 8 | Gaetano DiNardi | SaaS growth advisor | Former VP Marketing multiple SaaS cos, data-driven approach |
 | 9 | Melissa Kwan | CEO eWebinar | Strong example of authentic founder-led B2B storytelling |
-| 10 | Matt Lavoie | Founder-led growth specialist | Helps B2B SaaS founders build LinkedIn audiences that convert |
+| 10 | Brendan Hufford | B2B SaaS content marketer and advisor | Works with Adobe, Mailchimp, Sendoso. Newsletter with 47% open rate |
 
 ---
 

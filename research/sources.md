@@ -18,8 +18,8 @@ Each expert was selected because they actively practice what they teach — they
 - Why: One of the fastest-growing LinkedIn creators in B2B. Teaches personal branding for founders and SaaS operators.
 
 ## 3. Brendan Hufford
-- LinkedIn: https://www.linkedin.com/in/mattlavoie/
-- Why: Founder-led growth content specialist. Helps B2B SaaS founders build audiences through LinkedIn.
+- LinkedIn: https://www.linkedin.com/in/brendanhufford/
+- Why: B2B SaaS content marketer and advisor. Works with Adobe, Mailchimp, Sendoso, Dreamdata.
 
 ## 4. Richard van der Blom
 - LinkedIn: https://www.linkedin.com/in/richardvanderblom/

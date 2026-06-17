@@ -1,26 +1,40 @@
 # cursor-setup-task
 
-Setup of an AI-assisted development environment using Cursor IDE with the
-Claude Code and Codex extensions, plus a public GitHub repository. This repo
-documents the tools I installed, the steps I completed, and the issues I ran into.
+## Research Project: LinkedIn Organic Content Strategy for B2B SaaS
 
-## Tools installed
-- **Cursor IDE** – an AI-powered, VS Code–based editor. Signed in with my GitHub account.
-- **Claude Code (by Anthropic)** – the official Claude Code extension for the editor.
-- **Codex (by OpenAI)** – OpenAI's coding agent extension.
+### Topic chosen
+LinkedIn organic content strategy for B2B SaaS companies.
 
-## Steps completed
-1. Downloaded and installed Cursor from cursor.com and signed in with GitHub.
-2. Opened the Extensions panel (Cmd+Shift+X) and installed **Claude Code for VS Code** (publisher: Anthropic, verified).
-3. Installed **Codex – OpenAI's coding agent** (publisher: OpenAI, verified).
-4. Logged in to Claude Code.
-5. Cloned and opened the repository in Cursor.
-6. Wrote this README describing the process.
-7. Committed and pushed the changes to GitHub.
+### Why this topic
+LinkedIn organic is the highest-ROI marketing channel for B2B SaaS at early and growth stages. Unlike paid ads, it compounds over time and builds genuine trust with buyers. I chose this topic because it sits at the intersection of distribution, brand, and sales — three things that determine whether a SaaS company grows or stalls.
 
-## Issues I ran into and how I solved them
-- **"Install" seemed to do nothing.** Clicking Install on the Claude Code extension didn't appear to react at first. It was just downloading in the background; after a few seconds the button changed to "Disable / Uninstall", confirming success.
-- **Finding the Extensions panel in the new Cursor UI.** Cursor opens on an "agent" home screen instead of the classic editor. I had to open the Editor Window and use Cmd+Shift+X to reach the Extensions marketplace.
-- **Claude Code login.** No "Sign in" command appeared, only "Logout" — which indicated I was already authenticated.
-- **Codex login requires a paid plan.** The Codex extension page states it works with paid ChatGPT plans (Plus, Pro, Business, Edu, Enterprise). With a free account I could install the extension but could not complete a functional login. I documented this as a limitation.
-- **Git authentication when pushing.** Pushing from the terminal triggered a GitHub device-code login that was hard to complete, so I published the README directly through the GitHub web editor.
+### How I selected the experts
+I looked for people who actively practice what they teach: founders who built audiences from scratch, operators who generated real pipeline from LinkedIn, and researchers who publish data on how the platform actually works. I avoided generic "marketing influencers" and focused on people with verifiable results in the B2B SaaS space specifically.
+
+---
+
+## Repository structure
+---
+
+## Experts collected
+
+| # | Name | Role | Why selected |
+|---|------|------|--------------|
+| 1 | Justin Welsh | Solopreneur, LinkedIn OS creator | 500k+ followers, built $5M business from LinkedIn organic |
+| 2 | Lara Acosta | Personal brand strategist | One of fastest-growing B2B LinkedIn creators |
+| 3 | Richard van der Blom | LinkedIn algorithm researcher | Publishes annual algorithm report, most cited in B2B |
+| 4 | Chris Walker | CEO Refine Labs | Pioneered demand gen through LinkedIn organic, dark social |
+| 5 | Guillaume Moubeche | CEO lempire/lemlist | Built $30M ARR SaaS largely through founder-led LinkedIn content |
+| 6 | Anthony Pierri | B2B SaaS positioning expert | Highly analytical content on messaging and GTM strategy |
+| 7 | Katelyn Bourgoin | Customer research expert | Psychology-driven content, buyer behavior specialist |
+| 8 | Gaetano DiNardi | SaaS growth advisor | Former VP Marketing multiple SaaS cos, data-driven approach |
+| 9 | Melissa Kwan | CEO eWebinar | Strong example of authentic founder-led B2B storytelling |
+| 10 | Matt Lavoie | Founder-led growth specialist | Helps B2B SaaS founders build LinkedIn audiences that convert |
+
+---
+
+## Tools and methods used
+- Terminal (zsh) for file creation and Git operations
+- Git for version control and regular commits
+- GitHub for repository hosting and delivery
+- Content collected from public LinkedIn posts and YouTube channels

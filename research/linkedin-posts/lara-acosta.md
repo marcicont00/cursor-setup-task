@@ -7,36 +7,16 @@ LinkedIn: https://www.linkedin.com/in/laraacostaofficial/
 
 ---
 
-## Post 1 – Personal Brand
-"Nobody cares about your company.
-They care about you.
-
-I grew to 100k followers by talking about:
-- My failures
-- My lessons
-- My frameworks
-
-Not about my product.
-
-Build the audience first. The sales follow."
+## Post 1
+I'm leaking my phone number. (and I'm kinda scared) Look, I run my business using mostly two things. 1. LinkedIn. 2. Whatsapp. My co-founder Jake and I have been using it since 2023 to share everything content and growth related. We'd literally share the smallest 'tweaks' and trends. We'd be tracking impressions and followers. Celebrating and learning from each other. We'd show each other new funnels. Those direct messages made a big difference. Because no one was sharing the 'ugly' part online. And today, I built something exactly like that. For you. It's a small insider space for other serious business owners who want that same support I had.
 
 ---
 
-## Post 2 – Consistency
-"I posted every single day for 6 months before anything happened.
-
-Month 1: 200 followers
-Month 3: 2,000 followers
-Month 6: 20,000 followers
-
-LinkedIn is a long game. Most people quit in month 2."
+## Post 2
+You have no experience. You'll never be successful. Experts are better than you. The market is saturated right now. This is what people told me 4 years ago. And this is something you probably hear too. People expect you to follow a typical career path. People want you to live for a paycheck. People want you to be normal. And the reality is, yeah you'll never be successful... If you keep trying to be someone else. Instead of following others, follow yourself. I didn't try to become the next Leila Hormozi. I didn't try to become the next Justin Welsh. I became me. And I guess, it worked out. Become you, not someone else. In a sea full of wannabees, be yourself. It pays better.
 
 ---
 
-## Post 3 – Hook Formula
-"Your first line is everything on LinkedIn.
+## Post 3
+Last month, Jasmin and I decided to change a few lives. And decided to give away over $10k+ away (direct access to us through our programmes). We had 100s of people in our lists. But we could only pick 5 each. After a lot of back and forth, we picked our winners. We looked at entries, saw your content and connected. Honestly, we're so proud of everyone. This is what LinkedIn is all about. Winning together.
 
-Bad hook: 'I want to share some thoughts on content marketing'
-Good hook: 'I gained 50,000 followers without a single paid ad. Here's how.'
-
-Stop burying the lead. Start with the most interesting thing you have to say."

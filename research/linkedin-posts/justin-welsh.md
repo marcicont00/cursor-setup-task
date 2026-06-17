@@ -1,55 +1,22 @@
 # Justin Welsh – LinkedIn Posts
 
 ## About
-Justin Welsh is a solopreneur and LinkedIn creator with 500k+ followers. Former VP Sales at PatientPop (SaaS). He teaches content systems for B2B creators and founders.
+Justin Welsh is a solopreneur with 500k+ followers on LinkedIn. Former VP Sales at PatientPop (SaaS). Built a $15M solo business. Creator of the LinkedIn OS course.
 
 LinkedIn: https://www.linkedin.com/in/justinwelsh/
 
 ---
 
-## Post 1 – Content Operating System
-"I went from 2,000 to 100,000 LinkedIn followers in 12 months.
-
-Here's the exact content system I used:
-
-1. Pick one topic you know deeply
-2. Write 5 core ideas around that topic
-3. Every piece of content connects back to those 5 ideas
-4. Post consistently — same days, same time
-5. Engage with every comment for the first 60 minutes
-
-The algorithm rewards consistency. But more importantly, your audience does too.
-
-Stop trying to go viral. Start trying to be useful."
+## Post 1
+I can trace my success back to one specific kind of work: Difficult work. The stuff that was uncomfortable, scary, and hard enough that I was a different person by the time I finished it. That doesn't mean grinding 24/7 or putting your family on hold. It means that early in your career especially, hard work is the thing that actually moves you forward. 25 years into my career, I finally feel like I can ease up a little. Not because the work got easier, but because I've systematized the lessons that took me thousands of hours to learn: 1. How to experiment 2. How to read signal 3. Content-product alignment 4. Time optimization 5. Building compounding assets 6. Knowing when to quit 7. Identity clarity
 
 ---
 
-## Post 2 – Niche Down
-"The riches are in the niches.
-
-I see too many B2B founders trying to talk to everyone.
-They end up reaching no one.
-
-Pick your lane:
-- One industry
-- One problem
-- One type of buyer
-
-Then become the most useful voice in that lane.
-
-That's how you build pipeline from LinkedIn without paid ads."
+## Post 2
+I left a $550,000 job at 38 with no plan and very little runway. By every measure that LinkedIn cares about, I was late. Late to start something of my own. Late to figure out what I actually wanted. Late to build the thing that would eventually work. Most people my age had a decade head start on their own business. I had a huge burnout and a resignation letter. Over the next 7 years, I learned a lot about what's important and what isn't. To start, the timeline you're panicking about is fake. You can be lost at 22 and fine. You can be broke at 28 and fine. You can start over at 38 and be fine.
 
 ---
 
-## Post 3 – Founder-Led Content
-"Your company's LinkedIn page has 800 followers.
-Your personal page could have 80,000.
-
-People buy from people.
-Not from logos.
-
-The highest-ROI marketing move for any B2B SaaS founder in 2024:
-Post on LinkedIn 3x per week. Be honest. Be specific. Be consistent.
-
-Your next 10 customers are already following you. They just don't know it yet."
+## Post 3
+Everyone says you can only have two of these. Why? If you do business right, you can: 1. Have a lot of fun. 2. Help a lot of people. 3. Make a lot of money. You don't have to trade one for the other. Making money isn't bad. Building stuff doesn't have to suck. You don't have to rip people off to win. I spent the last decade changing the trajectory of my family by starting my own one-person business. And over that time, it grew to $15M+ in profit.
 

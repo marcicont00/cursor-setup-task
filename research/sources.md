@@ -14,7 +14,7 @@ Each expert was selected because they actively practice what they teach — they
 - Why: Grew from 0 to 500k+ followers on LinkedIn. Created the LinkedIn OS course. Focuses on solopreneur and SaaS content systems.
 
 ## 2. Lara Acosta
-- LinkedIn: https://www.linkedin.com/in/laraacostaofficial/
+- LinkedIn: https://www.linkedin.com/in/laraacostar/
 - Why: One of the fastest-growing LinkedIn creators in B2B. Teaches personal branding for founders and SaaS operators.
 
 ## 3. Brendan Hufford
@@ -27,7 +27,7 @@ Each expert was selected because they actively practice what they teach — they
 - Why: Publishes annual LinkedIn Algorithm research reports. One of the most cited LinkedIn strategy voices in B2B.
 
 ## 5. Katelyn Bourgoin
-- LinkedIn: https://www.linkedin.com/in/katelynbourgoin/
+- LinkedIn: https://www.linkedin.com/in/katebour/
 - Why: Customer research and B2B content expert. Known for high-signal educational content that drives SaaS pipeline.
 
 ## 6. Chris Walker
@@ -35,7 +35,7 @@ Each expert was selected because they actively practice what they teach — they
 - Why: CEO of Refine Labs. Pioneer of the "dark social" and demand generation through LinkedIn organic content.
 
 ## 7. Gaetano DiNardi
-- LinkedIn: https://www.linkedin.com/in/gaetanodinardi/
+- LinkedIn: https://www.linkedin.com/in/officialg/
 - Why: Growth advisor to multiple SaaS companies. Known for data-driven LinkedIn content strategy.
 
 ## 8. Anthony Pierri
@@ -47,6 +47,6 @@ Each expert was selected because they actively practice what they teach — they
 - Why: Co-founder of eWebinar. Documents founder journey on LinkedIn — strong example of authentic B2B SaaS storytelling.
 
 ## 10. Guillaume Moubeche
-- LinkedIn: https://www.linkedin.com/in/gm-lempire/
+- LinkedIn: https://www.linkedin.com/in/guillaume-moubeche-a026541b2/
 - Why: CEO of lempire (lemlist). Built massive B2B SaaS audience on LinkedIn through radical transparency and founder-led content.
 
